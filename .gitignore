@@ -51,6 +51,8 @@ sysinfo.txt
 crashlytics-build.properties
 
 
-# 3rdPart assets
+# 3rdParty assets
 Assets/plugins
 Assets/plugins.meta
+Assets/3rdParty
+Assets/3rdParty.meta
